@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'anipedia'
+
+anispedia = Anipedia.load ARGV.shift
+puts anispedia.key ARGV.shift
