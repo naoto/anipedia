@@ -6,7 +6,7 @@ Anipedia is Wikipedia Scraper
 
 Command Lines
 
-```ruby
+```sh
 $ bin/anipedia たまこまーけっと あらすじ
 ```
 
